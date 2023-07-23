@@ -7,3 +7,6 @@ then
 else
 	echo "欢迎回家，主人！"
 fi
+
+echo "这个是feature2分支的修改，所以要说两遍！"
+echo "这个是feature2分支的修改，所以要说两遍！"
